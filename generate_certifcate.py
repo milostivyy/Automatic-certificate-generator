@@ -51,4 +51,4 @@ def makeCertificate(bkgrnd_file, trgt_file, name, course):
 	#save it
 	img.save(trgt_file)
 
-makeCertificate('d:/images/blank.png', 'd:/images/cert_new.png', 'Vikas Kumar','Python Image Library')
+makeCertificate('d:/images/blank.png', 'd:/images/cert_new.png', 'Mahima Chauhan','Python Image Library')
